@@ -1,0 +1,10 @@
+{
+  "name": "express-postgress-typescript",
+  "version": "1.0.0",
+  "description": "belajar typescript",
+  "main": "index.js",
+  "repository": "https://github.com/FirmanAzharR/express-typescript-postgres.git",
+  "author": "firman azhar riyadi",
+  "license": "none",
+  "private": null
+}
