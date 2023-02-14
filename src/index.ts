@@ -18,5 +18,5 @@ class App {
 const port: number = 8000
 const app = new App().app
 app.listen(port, () => {
-    console.log(`server is running`)
+    console.log(`server is running on port ${port}`)
 })
